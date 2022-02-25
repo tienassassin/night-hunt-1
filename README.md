@@ -1,4 +1,6 @@
 # night-hunt-1
-`Night Hunt: The Twilight
-###Le Duy Tien
-Hello`
+
+`Dev` Le Duy Tien
+`Engine` Unity
+`Language` C#
+`More info' [My Gamejolt page](gamejolt.com/@jinwei)
