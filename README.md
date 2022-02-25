@@ -3,4 +3,4 @@
 `Dev` Le Duy Tien
 `Engine` Unity
 `Language` C#
-`More info' [My Gamejolt page](gamejolt.com/@jinwei)
+`More info' [my Gamejolt page](gamejolt.com/@jinwei)
