@@ -9,3 +9,5 @@
 `Language` C#  
   
 `More info` [my Gamejolt page](https://gamejolt.com/@jinwei)
+  
+Code location: Asset/Script/<category_name> _(example: Asset/Script/Player)_
