@@ -10,7 +10,9 @@
   
 `More info` [my Gamejolt page](https://gamejolt.com/@jinwei)
   
-Where my code? Asset/Script/<category_name> _(example: Asset/Script/Player)_  
+Where my code? 
+- Asset/Script/<category_name> _(example: Asset/Script/Player)_  
+  
 How to download?  
 - Go to the "Releases" section and follow the instructions  
         or  
